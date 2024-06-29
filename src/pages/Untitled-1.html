@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Checkbox Example</title>
+<style>
+    /* Default styles for the parent */
+    .parent {
+        background-color: #f0f0f0;
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+
+    /* Style changes when checkbox is checked */
+    .parent input[type="checkbox"]:checked > .parent {
+        background-color: lightblue;
+        border: 1px solid blue;
+        padding: 30px;
+    }
+</style>
+</head>
+<body>
+
+<div class="parent">
+    <input type="checkbox" id="checkbox">
+    <label for="checkbox">Select Me</label>
+</div>
+
+<div class="parent">
+    <input type="checkbox" id="checkbox2">
+    <label for="checkbox2">Or Select Me</label>
+</div>
+
+</body>
+</html>

@@ -109,12 +109,17 @@
     position: relative;
 }
 .date{
+    height: -webkit-fill-available;
     position: relative;
+    width: 18px;
     padding: 3px 5px;
     border: 2px solid blue;
     border-radius: 10px;
     cursor: pointer;
+    display: flex;
     pointer-events: none;
+    justify-content: center;
+    align-items: center;
 }
 .s-date{
     position: absolute;

@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route} from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import './App.css';
 import Navbar from './pages/Navbar';
 import Home from './pages/Home';
@@ -9,8 +9,8 @@ import Appointments from './pages/Appointments';
 
 function App() {
   return (
-    <BrowserRouter>
-       <Routes>
+    <Router>
+      <Routes>
         <Route path="/" element={<Navbar />}>
           <Route index element={<Home />} />
           <Route path="details" element={<Details />} />
@@ -19,7 +19,7 @@ function App() {
           <Route path="*" element={<Nopage />} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </Router>
   );
 }
 

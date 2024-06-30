@@ -31,12 +31,10 @@ function CategoriList() {
             {
                 lists.map(list =>
                     <div key={list.id} className='cardCateg'>
-                        <a className='alink' href={'#'+list.categorie}>
                         <span className='idno'>{list.id}</span>
                         <div className='batch'>Specialist</div>
                         <div className='categ-type'>{list.categorie}</div>
                         <div className='no-of-doc'>Number of doctors we have for this are {list.No}</div>
-                        </a>
                     </div>
                 )
             }

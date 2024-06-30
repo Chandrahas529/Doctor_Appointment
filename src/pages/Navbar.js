@@ -4,20 +4,20 @@ import logo from '../images/logo.png';
 import { memo, useEffect, useRef, useState } from 'react';
 function Navbar() {
     const location = useLocation()
-    const loc = window.location.pathname;
+    const loc = window.location.pathname + window.location.hash;
     const [active, setActive] = useState(0);
     useEffect(()=>{
-        if (loc === "/")
+        if (loc === "/Doctor_appointment#/")
             setActive(1)
-        else if (loc === "/details")
+        else if (loc === "/Doctor_appointment#/details")
             setActive(2)
-        else if (loc === "/appointment")
+        else if (loc === "/Doctor_appointment#/appointment")
             setActive(3)
-        else if (loc === "/login")
+        else if (loc === "/Doctor_appointment#/login")
             setActive(4)
         else 
             setActive(2)
-    },[location])
+    },[location]);
     return (<>
         <nav>
             <div className="nav-left">

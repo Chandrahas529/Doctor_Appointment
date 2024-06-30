@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Doctor_appointment/static/css/main.384b3930.css",
+    "main.js": "/Doctor_appointment/static/js/main.7e0abc4f.js",
+    "static/js/453.8c5d1510.chunk.js": "/Doctor_appointment/static/js/453.8c5d1510.chunk.js",
+    "static/media/doc2.png": "/Doctor_appointment/static/media/doc2.fdfdaf5ab79d3c9e057a.png",
+    "static/media/doc2r.png": "/Doctor_appointment/static/media/doc2r.b5f90cc3131fbfdcf3ec.png",
+    "static/media/doc3.png": "/Doctor_appointment/static/media/doc3.b215adaf77aff22f3a43.png",
+    "static/media/img-ctn.jpg": "/Doctor_appointment/static/media/img-ctn.23b7140312d9f33a09a0.jpg",
+    "static/media/d.jpg": "/Doctor_appointment/static/media/d.30781644d1c44da7e5ef.jpg",
+    "static/media/tools1.jpg": "/Doctor_appointment/static/media/tools1.52fd81207f2464714168.jpg",
+    "static/media/doc-talk.jpg": "/Doctor_appointment/static/media/doc-talk.8c8b86f72a52db02c1de.jpg",
+    "static/media/doc1.jpeg": "/Doctor_appointment/static/media/doc1.0ec9be3628ddda10627e.jpeg",
+    "static/media/doc9.jpeg": "/Doctor_appointment/static/media/doc9.186d32b160624b260ed8.jpeg",
+    "static/media/tools3.jpeg": "/Doctor_appointment/static/media/tools3.5ee724f53314db76278c.jpeg",
+    "static/media/doc8.jpeg": "/Doctor_appointment/static/media/doc8.f1f073cff70e1071b2ee.jpeg",
+    "static/media/doc5.jpeg": "/Doctor_appointment/static/media/doc5.d759d89b2558ebd598a5.jpeg",
+    "static/media/doc12.jpeg": "/Doctor_appointment/static/media/doc12.3dc20e6478c5b9811ccb.jpeg",
+    "static/media/logo.png": "/Doctor_appointment/static/media/logo.c0bf6914d6ba8db73f16.png",
+    "static/media/doc4.jpeg": "/Doctor_appointment/static/media/doc4.5e0dbecde3211b3af7f6.jpeg",
+    "static/media/doctor.png": "/Doctor_appointment/static/media/doctor.a6d25735af9bd11f233d.png",
+    "static/media/stethoscope.png": "/Doctor_appointment/static/media/stethoscope.b465ed67c4eddf289061.png",
+    "static/media/doc11.jpeg": "/Doctor_appointment/static/media/doc11.faa595280c3744b71d88.jpeg",
+    "index.html": "/Doctor_appointment/index.html",
+    "main.384b3930.css.map": "/Doctor_appointment/static/css/main.384b3930.css.map",
+    "main.7e0abc4f.js.map": "/Doctor_appointment/static/js/main.7e0abc4f.js.map",
+    "453.8c5d1510.chunk.js.map": "/Doctor_appointment/static/js/453.8c5d1510.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.384b3930.css",
+    "static/js/main.7e0abc4f.js"
+  ]
+}

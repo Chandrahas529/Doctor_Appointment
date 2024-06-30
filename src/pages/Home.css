@@ -1,7 +1,7 @@
 .sec1{
     display: flex;
     flex-direction: row;
-    height: fit-content;
+    height: 90vh;
     padding: 1em 3em 0em 3em;
     background: radial-gradient(#72a8df 52%, #4974c5);
     overflow: hidden;
@@ -375,6 +375,7 @@
 }
 @media (max-width:618px){
     .sec1 {
+        height: 140vh;
         flex-direction: column;
     }
     .sec4 h1{
@@ -394,6 +395,9 @@
     }
 }
 @media (max-width:456px){
+    .sec1{
+        height: 139vh;
+    }
     .cardlist {
         max-width: 174px;
     }

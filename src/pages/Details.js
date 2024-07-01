@@ -2,9 +2,7 @@ import React from 'react';
 import { Link, useOutletContext } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 import './Details.css';
-import src1 from '../images/doc1.jpeg';
 import Doctorslist from './doctorslist';
-import { useState } from 'react';
 const lists = [
     { id: 1, categorie: "Neurology", No: 3 },
     { id: 2, categorie: "Opthalmology", No: 2 },

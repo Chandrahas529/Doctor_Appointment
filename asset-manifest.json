@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Doctor_appointment/static/css/main.76183f5b.css",
+    "main.css": "/Doctor_appointment/static/css/main.4dc5ee01.css",
     "main.js": "/Doctor_appointment/static/js/main.c8704865.js",
     "static/js/453.8c5d1510.chunk.js": "/Doctor_appointment/static/js/453.8c5d1510.chunk.js",
     "static/media/doc2.png": "/Doctor_appointment/static/media/doc2.fdfdaf5ab79d3c9e057a.png",
@@ -22,12 +22,12 @@
     "static/media/stethoscope.png": "/Doctor_appointment/static/media/stethoscope.b465ed67c4eddf289061.png",
     "static/media/doc11.jpeg": "/Doctor_appointment/static/media/doc11.faa595280c3744b71d88.jpeg",
     "index.html": "/Doctor_appointment/index.html",
-    "main.76183f5b.css.map": "/Doctor_appointment/static/css/main.76183f5b.css.map",
+    "main.4dc5ee01.css.map": "/Doctor_appointment/static/css/main.4dc5ee01.css.map",
     "main.c8704865.js.map": "/Doctor_appointment/static/js/main.c8704865.js.map",
     "453.8c5d1510.chunk.js.map": "/Doctor_appointment/static/js/453.8c5d1510.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76183f5b.css",
+    "static/css/main.4dc5ee01.css",
     "static/js/main.c8704865.js"
   ]
 }

@@ -375,13 +375,18 @@
 }
 @media (max-width:618px){
     .sec1 {
-        height: 140vh;
+        height: fit-content;
         flex-direction: column;
+        padding: 1em 1em 0em 1em;
     }
     .sec4 h1{
         padding: 10px;
         margin: 0;
     }
+    .sect1-desc h2 {
+        margin: revert;
+    }
+
 }
 @media (max-width:534px){
     .cardlist{

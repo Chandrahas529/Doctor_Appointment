@@ -7,13 +7,13 @@ function Navbar() {
     const loc = window.location.pathname + window.location.hash;
     const [active, setActive] = useState(0);
     useEffect(()=>{
-        if (loc === "/Doctor_appointment#/")
+        if (loc === "/Doctor_appointment/#/")
             setActive(1)
-        else if (loc === "/Doctor_appointment#/details")
+        else if (loc === "/Doctor_appointment/#/details")
             setActive(2)
-        else if (loc === "/Doctor_appointment#/appointment")
+        else if (loc === "/Doctor_appointment/#/appointment")
             setActive(3)
-        else if (loc === "/Doctor_appointment#/login")
+        else if (loc === "/Doctor_appointment/#/login")
             setActive(4)
         else 
             setActive(2)

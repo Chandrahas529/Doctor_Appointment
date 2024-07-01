@@ -87,9 +87,9 @@ nav{
     }
     .menubox{
         position: absolute;
-        height: 700px;
         background: white;
         left: 0;
+        bottom: 0;
         top: -22px;
         padding: 0;
         display: flex;
